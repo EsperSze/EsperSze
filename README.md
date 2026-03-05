@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning: C++
 - 🎯 Goals: 
-- 🗣️ Language: English/Chinese
+- 🗣️ Language: English / Chinese
 
 ---
 
