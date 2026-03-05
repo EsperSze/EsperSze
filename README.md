@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning: C++
-- 🎯 Goals: Becoming a developer
-- 🗣️ Language: English/Chinese
+- 🎯 Goals: 
+- 🗣️ Language: English / Chinese
 
 ---
 
