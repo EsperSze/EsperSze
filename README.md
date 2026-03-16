@@ -2,7 +2,7 @@
 
 🎓 **Student:** Major in Computer Engineering  
 
-💻 **Interests:** Software Development / Robotics
+💻 **Interests:** Software Development / Embedded System / Robotics
 
 🌎 **Location:** China / HongKong
 
@@ -11,7 +11,6 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning: C++
-- 🎯 Goals: 
 - 🗣️ Language: English / Chinese
 
 ---
