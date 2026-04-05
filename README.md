@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning: C++
+- 🌱 Currently learning: C/C++
 - 🗣️ Language: English / Chinese
 
 ---
